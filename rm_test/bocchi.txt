@@ -1,0 +1,2 @@
+rm es un comando que borra archivos de las versiones posteriores
+rm permite dos alias que cambia sus efectos
