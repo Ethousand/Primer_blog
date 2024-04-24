@@ -1,3 +1,6 @@
 curso de Git
 
 este es el inicio del curos de Git y Github por freddy Vega
+
+
+es necesario agregar comentarios a los commits para explicar los cambios del equipo
