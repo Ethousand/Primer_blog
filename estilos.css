@@ -1,0 +1,27 @@
+body
+{
+    color: #105B23;
+    text-align: center;
+    font: verdana;
+
+}
+
+#cajita
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid black;
+    border-radius: 16px;
+    padding-left: 24px;
+}
+
+#cajita h1
+{
+    font-size: 30px;
+    font-family: Verdana;
+}
+
+#
