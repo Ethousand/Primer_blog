@@ -1,9 +1,10 @@
 body
 {
+    background: #262626;
     color: #105B23;
     text-align: center;
-    font: verdana;
-
+    display: flex;
+    justify-content: center;
 }
 
 #cajita
@@ -12,6 +13,7 @@ body
     padding: 0;
     text-align: left;
     margin: 0px;
+    background: white;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
