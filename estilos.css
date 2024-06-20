@@ -1,9 +1,6 @@
 body
 {
     color: #105B23;
-    text-align: center;
-    font: verdana;
-
 }
 
 #cajita
@@ -44,4 +41,12 @@ body
     font-size: 16px;
     
 
+}
+
+#footer
+{
+    display: flex;
+    padding-left: 16px;
+    background: #4c4c4c;
+    color: beige;
 }
