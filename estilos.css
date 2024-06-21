@@ -47,3 +47,11 @@ body
     
 
 }
+
+#footer
+{
+    display: flex;
+    padding-left: 16px;
+    background: #4c4c4c;
+    color: beige;
+}
