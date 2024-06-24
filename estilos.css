@@ -1,6 +1,6 @@
 body
 {
-    background: #262626;
+    background: #27284d;
     color: #105B23;
     text-align: center;
     display: flex;
@@ -54,4 +54,5 @@ body
     padding-left: 16px;
     background: #4c4c4c;
     color: beige;
+    justify-content: center;
 }
