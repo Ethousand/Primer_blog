@@ -1,10 +1,13 @@
 body
 {
-    background: #27284d;
     color: #105B23;
     text-align: center;
     display: flex;
     justify-content: center;
+
+    background-image: url(wallpaper-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #cajita
@@ -44,8 +47,6 @@ body
 {
     padding: .5em;
     font-size: 16px;
-    
-
 }
 
 #footer
