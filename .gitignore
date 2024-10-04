@@ -1,4 +1,14 @@
+#Archivos individuales
+curso_de_Git.txt
+
+#grupo de arhivos
+*. png
+*. jpg
+*. jfif
+
+#carpetas
 rm_test
-*.png
-*.jpg
-*.jfif
+resourses
+
+#excepciones
+!resourses/logo.jpg
