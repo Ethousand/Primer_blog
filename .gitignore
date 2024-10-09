@@ -2,9 +2,9 @@
 curso_de_Git.txt
 
 #grupo de arhivos
-*. png
-*. jpg
-*. jfif
+*.png
+*.jpg
+*.jfif
 
 #carpetas
 rm_test
