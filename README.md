@@ -15,3 +15,6 @@ dentro de git tenemos varias herramientas para seguir los avances de nuestro pro
 
 ### git add y commit
 como su nombre lo describe en ingles, su función es la de agergar archivos, cambios que se realizaron dentro del proyecto, podemos agregar tanto archivos individuales como carpetas completas con "git commit <archivo>"
+
+### Status diff
+es un comando muy simple que compara dos versiones del mismo proyecto, estas pueden ser dos commits incluso entre distintas ramas, para usar esta herramienta basta con escribir el comando "git diff <Archivo 1> <Archivo 2>" donde pequeña nota tomara al primer archivo como punto de comparación,
