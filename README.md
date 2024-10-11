@@ -22,3 +22,7 @@ es un comando muy simple que compara dos versiones del mismo proyecto, estas pue
 ## rebase
 Rebase tiene la función de modificar la historia del repositorio, esto usualmente genera conflictos pero hecho de manera correcta permite unir ramas de
 forma limpia
+
+esto solo deberia usarse en repositorios locales para errores puntales y correguir bugs
+
+es importante recordar que esto modifica la historia del repositorio y esto es una muy mala practica 
