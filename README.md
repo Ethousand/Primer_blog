@@ -26,3 +26,6 @@ forma limpia
 esto solo deberia usarse en repositorios locales para errores puntales y correguir bugs
 
 es importante recordar que esto modifica la historia del repositorio y esto es una muy mala practica 
+
+**Como podemos hacer esto** para esto tenemos que fusionarlo en un orden especifico, empezando por fusionar la principal con la externa
+y luego la rama externa a la principal
