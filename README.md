@@ -19,6 +19,9 @@ como su nombre lo describe en ingles, su función es la de agergar archivos, cam
 ### Status diff
 es un comando muy simple que compara dos versiones del mismo proyecto, estas pueden ser dos commits incluso entre distintas ramas, para usar esta herramienta basta con escribir el comando "git diff <Archivo 1> <Archivo 2>" donde pequeña nota tomara al primer archivo como punto de comparación,
 
+### checkout
+es un comando muy poderoso que nos permite volver a una rama y commits en especifico, esto suele ser muy util para hacer cambios
+
 ## rebase
 Rebase tiene la función de modificar la historia del repositorio, esto usualmente genera conflictos pero hecho de manera correcta permite unir ramas de
 forma limpia
@@ -29,3 +32,4 @@ es importante recordar que esto modifica la historia del repositorio y esto es u
 
 >**Como podemos hacer esto**
 >para esto tenemos que fusionarlo en un orden especifico, empezando por fusionar la principal con la externa y luego la rama externa a la principal
+esto puede usarse para comparar las distintas versiones (ramas o más común entre commits) marcando las diferencias señalando las lineas de código y los distintos archivos
