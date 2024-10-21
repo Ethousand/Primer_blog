@@ -22,6 +22,7 @@ es un comando muy simple que compara dos versiones del mismo proyecto, estas pue
 ### checkout
 es un comando muy poderoso que nos permite volver a una rama y commits en especifico, esto suele ser muy util para hacer cambios
 
+
 ## rebase
 Rebase tiene la función de modificar la historia del repositorio, esto usualmente genera conflictos pero hecho de manera correcta permite unir ramas de
 forma limpia
