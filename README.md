@@ -34,3 +34,6 @@ es importante recordar que esto modifica la historia del repositorio y esto es u
 >**Como podemos hacer esto**
 >para esto tenemos que fusionarlo en un orden especifico, empezando por fusionar la principal con la externa y luego la rama externa a la principal
 esto puede usarse para comparar las distintas versiones (ramas o más común entre commits) marcando las diferencias señalando las lineas de código y los distintos archivos
+
+## Stash: un guardado temporal
+ 
