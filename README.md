@@ -36,4 +36,5 @@ es importante recordar que esto modifica la historia del repositorio y esto es u
 esto puede usarse para comparar las distintas versiones (ramas o más común entre commits) marcando las diferencias señalando las lineas de código y los distintos archivos
 
 ## Stash: un guardado temporal
- 
+ durante el desarrollo de grandes proyectos nos ayuda mucho tener un espacio para guardados temporales, para eso tenemos 
+**git stash** para esto solo tenemos que hacer los cambios y desde la consola usar git [stash]
