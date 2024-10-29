@@ -38,3 +38,5 @@ esto puede usarse para comparar las distintas versiones (ramas o más común ent
 ## Stash: un guardado temporal
  durante el desarrollo de grandes proyectos nos ayuda mucho tener un espacio para guardados temporales, para eso tenemos 
 **git stash** para esto solo tenemos que hacer los cambios y desde la consola usar git [stash]
+
+## git clean: borra archivos no deseado
