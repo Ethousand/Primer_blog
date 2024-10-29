@@ -40,3 +40,4 @@ esto puede usarse para comparar las distintas versiones (ramas o más común ent
 **git stash** para esto solo tenemos que hacer los cambios y desde la consola usar git [stash]
 
 ## git clean: borra archivos no deseado
+git clean es un simple comando para borrar los archivos que persivive git, muy util para archivos extra que no queremos, como compilaciones o copias del mismo archivo que se generan por error
