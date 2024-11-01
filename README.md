@@ -41,3 +41,6 @@ esto puede usarse para comparar las distintas versiones (ramas o más común ent
 
 ## git clean: borra archivos no deseado
 git clean es un simple comando para borrar los archivos que persivive git, muy util para archivos extra que no queremos, como compilaciones o copias del mismo archivo que se generan por error
+
+## git cherry pick
+ es tan simple como obtener un cambio especifico de otra rama para agregarlo a la nuestra
