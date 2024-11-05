@@ -44,3 +44,7 @@ git clean es un simple comando para borrar los archivos que persivive git, muy u
 
 ## git cherry pick
  es tan simple como obtener un cambio especifico de otra rama para agregarlo a la nuestra
+esto puede usarse para comparar las distintas versiones (ramas o más común entre commits) marcando las diferencias señalando las lineas de código y los distintos archivos
+
+### checkout
+es un comando muy poderoso que nos permite volver a una rama y commits en especifico, esto suele ser muy util para hacer cambios
